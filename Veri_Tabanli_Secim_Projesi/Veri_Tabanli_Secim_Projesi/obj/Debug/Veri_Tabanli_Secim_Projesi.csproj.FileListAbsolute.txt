@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Veri_Tabanli_Secim_Projesi\Veri_Tabanli_Secim_Projesi\bin\Debug\Veri_Tabanli_Secim_Projesi.exe.config
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Veri_Tabanli_Secim_Projesi\Veri_Tabanli_Secim_Projesi\obj\Debug\Veri_Tabanli_Secim_Projesi.csprojResolveAssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Veri_Tabanli_Secim_Projesi\Veri_Tabanli_Secim_Projesi\obj\Debug\Veri_Tabanli_Secim_Projesi.FrmOyGiris.resources
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Veri_Tabanli_Secim_Projesi\Veri_Tabanli_Secim_Projesi\obj\Debug\Veri_Tabanli_Secim_Projesi.FrmGrafikler.resources
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Veri_Tabanli_Secim_Projesi\Veri_Tabanli_Secim_Projesi\obj\Debug\Veri_Tabanli_Secim_Projesi.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Veri_Tabanli_Secim_Projesi\Veri_Tabanli_Secim_Projesi\obj\Debug\Veri_Tabanli_Secim_Projesi.csproj.GenerateResource.Cache
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Veri_Tabanli_Secim_Projesi\Veri_Tabanli_Secim_Projesi\bin\Debug\Veri_Tabanli_Secim_Projesi.exe
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Veri_Tabanli_Secim_Projesi\Veri_Tabanli_Secim_Projesi\bin\Debug\Veri_Tabanli_Secim_Projesi.pdb
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Veri_Tabanli_Secim_Projesi\Veri_Tabanli_Secim_Projesi\obj\Debug\Veri_Tabanli_Secim_Projesi.exe
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Veri_Tabanli_Secim_Projesi\Veri_Tabanli_Secim_Projesi\obj\Debug\Veri_Tabanli_Secim_Projesi.pdb
